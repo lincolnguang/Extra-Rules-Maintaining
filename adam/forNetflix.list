@@ -1,0 +1,10 @@
+# Here is an example
+
+#SRC-IP,192.168.20.100
+#SRC-IP,192.168.20.100/30
+#DOMAIN-SUFFIX,appspot.com
+#DOMAIN,www.apple.com
+#DOMAIN-KEYWORD,appspot.com
+#IP-CIDR,3.123.36.126/32,no-resolve
+#DEST-PORT,80
+#IN-PORT,82
