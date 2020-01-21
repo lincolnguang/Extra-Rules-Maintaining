@@ -1,10 +1,43 @@
-# Here is an example
+## Netflix
 
-#SRC-IP,192.168.20.100
-#SRC-IP,192.168.20.100/30
-#DOMAIN-SUFFIX,appspot.com
-#DOMAIN,www.apple.com
-#DOMAIN-KEYWORD,appspot.com
-#IP-CIDR,3.123.36.126/32,no-resolve
-#DEST-PORT,80
-#IN-PORT,82
+- DOMAIN-SUFFIX,netflix.com,Netflix
+- DOMAIN-SUFFIX,netflix.net,Netflix
+- DOMAIN-SUFFIX,nflxext.com,Netflix
+- DOMAIN-SUFFIX,nflximg.com,Netflix
+- DOMAIN-SUFFIX,nflximg.net,Netflix
+- DOMAIN-SUFFIX,nflxso.net,Netflix
+- DOMAIN-SUFFIX,nflxvideo.net,Netflix
+- DOMAIN-SUFFIX,netflixdnstest0.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest1.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest2.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest3.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest4.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest5.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest6.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest7.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest8.com,Netflix
+- DOMAIN-SUFFIX,netflixdnstest9.com,Netflix
+- IP-CIDR,23.246.0.0/18,Netflix,no-resolve
+- IP-CIDR,37.77.184.0/21,Netflix,no-resolve
+- IP-CIDR,45.57.0.0/17,Netflix,no-resolve
+- IP-CIDR,64.120.128.0/17,Netflix,no-resolve
+- IP-CIDR,66.197.128.0/17,Netflix,no-resolve
+- IP-CIDR,108.175.32.0/20,Netflix,no-resolve
+- IP-CIDR,192.173.64.0/18,Netflix,no-resolve
+- IP-CIDR,198.38.96.0/19,Netflix,no-resolve
+- IP-CIDR,198.45.48.0/20,Netflix,no-resolve
+# > Amazon Prime Video
+- DOMAIN-SUFFIX,aiv-cdn.net,Netflix
+- DOMAIN-SUFFIX,aiv-delivery.net,Netflix
+- DOMAIN-SUFFIX,primevideo.com,Netflix
+- DOMAIN-SUFFIX,amazonvideo.com,Netflix
+- DOMAIN,avodmp4s3ww-a.akamaihd.net,Netflix
+- DOMAIN,d25xi40x97liuc.cloudfront.net,Netflix
+- DOMAIN,dmqdd6hw24ucf.cloudfront.net,Netflix
+- DOMAIN,d22qjgkvxw22r6.cloudfront.net,Netflix
+- DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Netflix
+- DOMAIN-KEYWORD,avoddashs,Netflix
+# > YouTube
+- DOMAIN-SUFFIX,googlevideo.com,Netflix
+- DOMAIN-SUFFIX,youtube.com,Netflix
+- DOMAIN,youtubei.googleapis.com,Netflix
