@@ -1,6 +1,7 @@
 payload:
-  - '+.jqpvv.cn'
-  - '+.mtu46.com'
-  - '+.fro14.com'
-  - '+.wolleh.*'
-  - '+.msn.cn'
+  - DOMAIN-SUFFIX,jqpvv.cn
+  - DOMAIN-SUFFIX,mtu46.com
+  - DOMAIN-SUFFIX,fro14.com
+  - DOMAIN-KEYWORD,wolleh
+  - DOMAIN-SUFFIX,msn.cn
+  - DST-PORT,7680
