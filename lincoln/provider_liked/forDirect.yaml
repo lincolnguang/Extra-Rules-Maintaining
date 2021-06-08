@@ -1,3 +1,4 @@
 payload:
   - '+.steamstore-a.akamaihd.net'
   - '*-cn-ssl.ls.apple.com'
+  - 'media.icloud-content.com'
