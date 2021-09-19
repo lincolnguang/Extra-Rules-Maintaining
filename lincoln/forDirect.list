@@ -1,22 +1,3 @@
 DOMAIN,steamstore-a.akamaihd.net
-DOMAIN, gspe1-cn-ssl.ls.apple.com
-DOMAIN, gspe2-cn-ssl.ls.apple.com
-DOMAIN, gspe3-cn-ssl.ls.apple.com
-DOMAIN, gspe4-cn-ssl.ls.apple.com
-DOMAIN, gspe5-cn-ssl.ls.apple.com
-DOMAIN, gspe6-cn-ssl.ls.apple.com
-DOMAIN, gspe7-cn-ssl.ls.apple.com
-DOMAIN, gspe8-cn-ssl.ls.apple.com
-DOMAIN, gspe9-cn-ssl.ls.apple.com
-DOMAIN, gspe10-cn-ssl.ls.apple.com
-DOMAIN, gspe11-cn-ssl.ls.apple.com
-DOMAIN, gspe12-cn-ssl.ls.apple.com
-DOMAIN, gspe13-cn-ssl.ls.apple.com
-DOMAIN, gspe14-cn-ssl.ls.apple.com
-DOMAIN, gspe15-cn-ssl.ls.apple.com
-DOMAIN, gspe16-cn-ssl.ls.apple.com
-DOMAIN, gspe17-cn-ssl.ls.apple.com
-DOMAIN, gspe18-cn-ssl.ls.apple.com
-DOMAIN, gspe19-cn-ssl.ls.apple.com
-DOMAIN, gspe20-cn-ssl.ls.apple.com
+DOMAIN-KEYWORD, cn-ssl.ls.apple.com
 
