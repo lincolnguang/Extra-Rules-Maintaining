@@ -1,2 +1,2 @@
 DOMAIN,steamstore-a.akamaihd.net
-URL-REGEX,*-cn-ssl.ls.apple.com
+URL-REGEX,*-cn-ssl\.ls\.apple\.com
