@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,msn.cn
   - DST-PORT,7680
   - IP-CIDR,203.107.1.1/24 #avoid httpdns
+  - DOMAIN-SUFFIX,zjurl.cn
