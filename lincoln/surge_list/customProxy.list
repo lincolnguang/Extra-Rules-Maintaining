@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,windy.com
-DOMAIN-SUFFIX,uniregistry.com
-DOMAIN-SUFFIX,bugsnag.com
-DOMAIN,time.windows.com
+DOMAIN-SUFFIX,windy.com,extended-matching
+DOMAIN-SUFFIX,uniregistry.com,extended-matching
+DOMAIN-SUFFIX,bugsnag.com,extended-matching
+DOMAIN,time.windows.com,extended-matching
