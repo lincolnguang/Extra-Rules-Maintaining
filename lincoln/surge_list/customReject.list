@@ -2,5 +2,5 @@ DOMAIN-SUFFIX,jqpvv.cn
 DOMAIN-SUFFIX,mtu46.com
 DOMAIN-SUFFIX,fro14.com
 DOMAIN-KEYWORD,wolleh
-DOMAIN-SUFFIX,zjurl.cn
-DOMAIN-KEYWORD,httpdns
+DOMAIN-SUFFIX,zjurl.cn,extended-matching
+DOMAIN-KEYWORD,httpdns,extended-matching
