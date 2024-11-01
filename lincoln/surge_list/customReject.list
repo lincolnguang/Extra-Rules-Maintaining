@@ -1,6 +1,10 @@
-DOMAIN-SUFFIX,jqpvv.cn
-DOMAIN-SUFFIX,mtu46.com
-DOMAIN-SUFFIX,fro14.com
-DOMAIN-KEYWORD,wolleh
+# bilibili
+DOMAIN-SUFFIX,tracker.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,tracker.biliapi.net,extended-matching
+DOMAIN-SUFFIX,stun6.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,mcdn.bilivideo.cn,extended-matching
+DOMAIN-SUFFIX,volcsirius.com,extended-matching
+# other
 DOMAIN-SUFFIX,zjurl.cn,extended-matching
 DOMAIN-KEYWORD,httpdns,extended-matching
