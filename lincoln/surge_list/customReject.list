@@ -1,4 +1,5 @@
 # bilibili
+DOMAIN-SUFFIX,chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,tracker.biliapi.net,extended-matching
 DOMAIN-SUFFIX,mcdn.bilivideo.cn,extended-matching
 DOMAIN-SUFFIX,volcsirius.com,extended-matching
