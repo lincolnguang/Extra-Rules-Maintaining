@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,appsflyer.com,extended-matching
 # other
 DOMAIN-SUFFIX,zjurl.cn,extended-matching
 DOMAIN-KEYWORD,httpdns,extended-matching
+DOMAIN-SUFFIX, service.minerva.devices.a2z.com,extended-matching
