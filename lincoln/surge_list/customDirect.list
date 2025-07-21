@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net,extended-matching
 DOMAIN-KEYWORD,cn-ssl.ls.apple.com,extended-matching
 DOMAIN,media.icloud-content.com,extended-matching
+DOMAIN,discovery-announce-v6.syncthing.net,extended-matching
 
 
